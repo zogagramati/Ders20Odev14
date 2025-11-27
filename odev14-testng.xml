@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="SeleniumOdev14Suite">
+    <test name="SeleniumOdev14Tests">
+        <classes>
+            <class name="Odevler.ClickButtonTest"/>
+            <class name="Odevler.AddRecordTest"/>
+        </classes>
+    </test>
+</suite>
