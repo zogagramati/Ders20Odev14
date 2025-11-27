@@ -1,8 +1,0 @@
-<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
-<suite name="MuhasebeSuite">
-    <test name="MuhasebeTests">
-        <classes>
-            <class name="labaKurs.MuhasebeTest"/>
-        </classes>
-    </test>
-</suite>
